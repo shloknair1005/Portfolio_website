@@ -42,7 +42,7 @@ But here's the twist:
 ## 🛠 Built With
 
 - `HTML5` + `CSS3` + `Vanilla JS`
-- AI assistance from **ChatGPT** for layout, content & optimizations
+- AI assistance from **Claude** for layout, content & optimizations
 - 💡 Design inspiration via [Streamlit] and [modern portfolio trends]
 
 
