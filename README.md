@@ -6,7 +6,8 @@ Welcome to my personal portfolio website!
 This site was crafted not just to showcase my work—but to **showcase how I work**. Designed with a mix of code and creativity, it's built using **HTML, CSS, and JavaScript**, with a modern UI and responsive layout.
 
 But here's the twist:  
-> ✨ I built this website using **AI-assisted tools**, including content generation, layout structuring, and optimization with the help of ChatGPT.
+> ✨ I built this website using **AI-assisted tools**, including content generation, layout structuring, and optimization with the help of Claude.
+> PS. This Readme is written by ChatGPT
 
 ---
 
